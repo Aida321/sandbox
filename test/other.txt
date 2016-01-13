@@ -1,0 +1,4 @@
+Testing git flow
+New line
+Line3
+x
